@@ -1,2 +1,3 @@
 # Deep-Learning-with-ANN
-A collection of real-world Artificial Neural Network (ANN) projects built using Keras and TensorFlow. This repository showcases diverse applications including healthcare, sentiment analysis, time series forecasting, and fraud detection—highlighting how deep learning can be applied to solve meaningful and practical problems.
+This repository brings together several hands-on ANN-based machine learning models developed using Python, Keras, and TensorFlow. Each project tackles a distinct real-world problem—from detecting cancer and fraud to predicting stock prices and analyzing emotions—showcasing the flexibility and power of artificial neural networks.
+
